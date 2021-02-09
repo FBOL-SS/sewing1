@@ -75,9 +75,9 @@ Import Customer Image
             "sh_import_inventory_with_lot_serial/wizard/import_inventory_with_lot_serial_wizard.xml",
             "sh_import_inventory_with_lot_serial/views/stock_view.xml",   
               
-            "sh_import_partner/security/import_partner_security.xml",
-            "sh_import_partner/wizard/import_partner_wizard.xml",
-            "sh_import_partner/views/sale_view.xml",   
+#            "sh_import_partner/security/import_partner_security.xml",
+#            "sh_import_partner/wizard/import_partner_wizard.xml",
+#            "sh_import_partner/views/sale_view.xml",   
               
             "sh_import_po/security/import_po_security.xml",
             "sh_import_po/wizard/import_po_wizard.xml",
