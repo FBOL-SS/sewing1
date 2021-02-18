@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <odoo>
   <data>
     <template id="report_invoice_ccf">
@@ -15,6 +15,7 @@
               .tabla-trh td {
               font-size: 22px;
               padding: 12px 4px;
+            border: 1px solid white;
               }
             </style>
 
@@ -172,7 +173,7 @@
             #tabla-3 td
             {
             font-size: 23px;
-
+            border: 1px solid white;
             }
             #tabla-3 th{
             padding: 18px 2px;
@@ -238,7 +239,7 @@
             #tabla-t td
             {
             font-size: 23px;
-
+            border: 1px solid white;
             }
           </style>
 
