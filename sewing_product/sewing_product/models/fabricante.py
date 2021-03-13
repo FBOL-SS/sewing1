@@ -21,10 +21,12 @@ class ProductTemplate(models.Model):
                                                    ('durkopp', 'DURKOPP'),
                                                    ('eastman', 'Eastman'),
                                                    ('hashima', 'Hashima'),
+                                                   ('jack', 'JACK')
                                                    ('janome', 'Janome'),
                                                    ('juki', 'JUKI'),
                                                    ('kansai', 'KANSAI'),
                                                    ('kingtex', 'Kingtex'),
+                                                   ('lijia', 'LIJIA')
                                                    ('meistergram', 'Meistergram'),
                                                    ('merrow', 'MERROW'),
                                                    ('mitsubishi', 'Mitsubishi'),
