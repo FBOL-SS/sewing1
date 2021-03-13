@@ -9,7 +9,7 @@
         <field name="arch" type="xml">
 
              <xpath expr="/form/sheet/notebook/page/field[@name='order_line']/tree/field[@name='tax_id']" position="after">
-                <field name="entrega_nota" invisible="0"/>
+                <field name="entrega_nota" visible="1"/>
                  <field name="entrega_nota2"/>
             </xpath>
         </field>
