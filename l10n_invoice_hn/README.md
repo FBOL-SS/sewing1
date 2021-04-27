@@ -1,2 +1,2 @@
-# l10n_invoice_sv
+# l10n_invoice_hn
 Invoice models from El Salvador
