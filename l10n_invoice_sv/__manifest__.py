@@ -43,6 +43,7 @@
         'report/report_invoice_exp_ins.xml',
         'report/report_invoice_ccf_ins.xml',
         'report/report_invoice_fcf_ins.xml',
+	'report/report_invoice_exp_alpha.xml',
         'report/invoice_report.xml',
         'report/report_invoice_main.xml',
         'security/ir.model.access.csv',
